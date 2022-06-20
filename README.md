@@ -1,16 +1,5 @@
-# bmi_calculator_flutter
+# Flutter-Bmi-LinkedIn-Learning
 
-A new Flutter project.
+Dit project was gecreëerd in aanleiding om verdere kennis te verkrijgen van flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-   Dit project is gemaakt door **_Stan Persoons {20/06/2022}_**
